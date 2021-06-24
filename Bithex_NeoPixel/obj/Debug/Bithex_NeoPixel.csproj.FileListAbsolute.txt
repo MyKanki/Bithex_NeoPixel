@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Bithex_NeoPixel\Bithex_NeoPixel\bin\Debug\Bithex_NeoPixel.exe.config
+C:\Users\hp\source\repos\Bithex_NeoPixel\Bithex_NeoPixel\bin\Debug\Bithex_NeoPixel.exe
+C:\Users\hp\source\repos\Bithex_NeoPixel\Bithex_NeoPixel\bin\Debug\Bithex_NeoPixel.pdb
+C:\Users\hp\source\repos\Bithex_NeoPixel\Bithex_NeoPixel\obj\Debug\Bithex_NeoPixel.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Bithex_NeoPixel\Bithex_NeoPixel\obj\Debug\Bithex_NeoPixel.Form1.resources
+C:\Users\hp\source\repos\Bithex_NeoPixel\Bithex_NeoPixel\obj\Debug\Bithex_NeoPixel.Properties.Resources.resources
+C:\Users\hp\source\repos\Bithex_NeoPixel\Bithex_NeoPixel\obj\Debug\Bithex_NeoPixel.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Bithex_NeoPixel\Bithex_NeoPixel\obj\Debug\Bithex_NeoPixel.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Bithex_NeoPixel\Bithex_NeoPixel\obj\Debug\Bithex_NeoPixel.exe
+C:\Users\hp\source\repos\Bithex_NeoPixel\Bithex_NeoPixel\obj\Debug\Bithex_NeoPixel.pdb
